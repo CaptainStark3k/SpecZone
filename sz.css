@@ -1,0 +1,69 @@
+.brand {
+  color: aliceblue;
+  text-decoration: none;
+}
+.brand:hover{
+  color: whitesmoke;
+}
+.site1 ,.site2,.site3,.site4:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+.site1 ,.site2,.site3,.site4:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+.site1 ,.site2,.site3,.site4:hover {
+  color: blue;
+}
+
+.title {
+  background-color: transparent;
+  padding: 50px;
+  font-family: "Trirong", sans-serif;
+  font-size: 80px;
+  margin: -10px;
+  object-fit: contain;
+  width: 1522px;
+  height: 800px;
+  background-image: url(henri-pham-u6JG0eYjcEU-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+ .container{
+  margin: 50px;
+ }
+ .card{
+  margin: 10px;
+ }
+ .inp{
+  margin-left: auto;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+ }
+ .bar{
+  font-family: 'Comfortaa', cursive;
+  font-size: 50px;
+  background-color: black;
+  color: aliceblue;
+  padding: 10px;
+ }
+ .cart{
+  color: aliceblue;
+  text-decoration: none;
+  padding-right: 50px;
+ }
+ .home{
+  color: aliceblue;
+  text-decoration: none;
+  padding-right: 50px;
+ }
+ 
+ .down{
+  margin: 30px;
+ }
